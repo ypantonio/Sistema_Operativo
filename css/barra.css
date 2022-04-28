@@ -1,0 +1,35 @@
+.escritorio_barra_menu{
+    width: 100%;
+    height: 4rem;
+    padding: 0rem 1rem;
+    background-color: var(--barra);
+    position: relative;
+    top: 10.5rem;
+
+    display: flex;
+    flex-direction:initial;
+    justify-content: space-between;
+    align-items: center;
+}
+.escritorio_barra_menu_control{
+    width: 8rem;
+    height: 2rem;
+    justify-content: space-between;
+    align-self: flex-start;
+    align-items: center;
+}
+.inicio{
+    width: 35px;
+    height: 35px;
+   
+}
+.navegador{
+    width: 35px;
+    height: 35px;
+    margin-left: 1rem;
+}
+.hora{
+    width:160px ;
+    height: 35px;
+    margin-left: 105rem;  
+}
