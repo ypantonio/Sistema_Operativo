@@ -6,11 +6,8 @@
 html{
     font-size: 10px;
     font-family: 'Archivo', sans-serif;
-}
-html{
     background-image: url(/img/FONDO.jpg);
     background-size: cover;
-   
 }
 :root{
     /*COLORES*/
