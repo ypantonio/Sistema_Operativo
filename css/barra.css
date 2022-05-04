@@ -23,6 +23,10 @@
     height: 35px;
    
 }
+.carpet{
+    width: 35.5px;
+    height: 35.5px;
+}
 .navegador{
     width: 35px;
     height: 35px;
@@ -31,5 +35,5 @@
 .hora{
     width:160px ;
     height: 35px;
-    margin-left: 105rem;  
+    margin-left: 100rem;  
 }
