@@ -1,0 +1,37 @@
+.inicio_menu{
+    background-color: #C1A57B;
+    width: 350px;
+    height: 510px;
+    margin-top: 5.8rem;
+    border-radius: 1rem;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    display: none;
+}
+.activar{
+    display: block;
+}
+.visuals{
+    width: 250px;
+    height: 50px;
+    margin-top: 1rem;
+    margin-left: 5rem;
+    
+}
+.visual{
+    padding: 0.5rem;
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+}
+p{
+    margin-top: -3rem;
+    margin-left: 60px;
+    font-size: 12.5px;
+}
+.visuals:hover{
+    transition: 0.5s;
+    background-color: #E3CAA5;
+}
